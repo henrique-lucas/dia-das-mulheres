@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
 }
 
 img {
@@ -20,7 +21,7 @@ img {
   align-items: center;
   justify-content: center;
   max-width: 500px;
-  padding: 20px;
+  padding: 5px 20px;
 }
 
 /* figcaption {
@@ -50,6 +51,7 @@ button:active {
 
 #quadro {
   background-color: #E392A1;
+  border-radius: 4px;
   padding: 20px 10px;
   margin: 10px;
 }
